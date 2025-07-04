@@ -4,5 +4,6 @@ const transacaoController = require('../controllers/transacaoController');
 
 router.post('/', transacaoController.criarTransacao);
 router.get('/', transacaoController.listarTransacao);
+router.get('/resumo', transacaoController.resumoPorCategoria);
  
 module.exports = router
