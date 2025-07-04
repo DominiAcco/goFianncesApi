@@ -1,7 +1,8 @@
-# 💸 goFinances API
+#  goFinances API
 
-API Node.js com PostgreSQL para gerenciar transações financeiras.
+API Node.js com PostgreSQL para gerenciar transações financeiras , como entradas e saídas de dinheiro.Está api esta conectada as versoes web e mobile do aplicativo.
 
+//a tabela utilizada no banco dedoa esta no arquivo tabela.sql juntoa aguns inserts para testes 
 ##  Como usar
 
 1. **Clone o repositório** e instale as dependências:
